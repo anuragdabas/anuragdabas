@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anuragdabas
 - 👀 I’m interested in python and data science
 - 🌱 I’m currently learning docker
-- 💞️ I’m looking to collaborate on anything related to python
+- 💞️ I’m looking to collaborate on anything related to python(data analysis, web development, data visualization)
 - 📫 How to reach me ...
 
 <!---
